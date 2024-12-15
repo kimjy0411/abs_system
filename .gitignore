@@ -1,0 +1,8 @@
+streamlit_env/
+yolov5/
+
+# 특정 파일 형식 제외
+*.jpg
+*.png
+*.json
+*.txt
